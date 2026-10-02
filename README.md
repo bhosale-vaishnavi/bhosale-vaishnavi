@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Vaishnavi 👋
 
-<!--
-**bhosale-vaishnavi/bhosale-vaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student focused on strengthening my programming fundamentals and becoming a better problem solver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building my foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms, while learning through practice and hands-on projects.
+
+🌱 Currently Learning
+
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🏗️ Object-Oriented Programming
+- 💡 Problem Solving
+
+🚀 My Focus
+
+I'm working toward becoming a strong Software Developer by building solid fundamentals, practicing consistently, and turning what I learn into practical projects.
+
+📚 Learning Philosophy
+
+«Learn the concept → Practice it → Build with it → Improve.»
+
+🔗 Connect With Me
+
+- LinkedIn: "Vaishnavi Bhosale" 
+
+---
+
+⭐ Learning. Building. Improving.
