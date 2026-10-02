@@ -23,7 +23,8 @@ I'm working toward becoming a strong Software Developer by building solid fundam
 
 🔗 Connect With Me
 
-- LinkedIn: "Vaishnavi Bhosale" 
+- LinkedIn: "www.linkedin.com/in/
+bhosale-vaishnavi"
 
 ---
 
