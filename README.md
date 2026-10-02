@@ -1,4 +1,4 @@
-Hi, I'm Vaishnavi 👋
+Hey, I'm Vaishnavi 👋
 
 Computer Science Engineering Student | Aspiring Software Developer
 
@@ -23,8 +23,7 @@ I'm working toward becoming a strong Software Developer by building solid fundam
 
 🔗 Connect With Me
 
-- LinkedIn: "www.linkedin.com/in/
-bhosale-vaishnavi"
+- LinkedIn: "Vaishnavi Bhosale" (https://www.linkedin.com/in/bhosale-vaishnavi)
 
 ---
 
